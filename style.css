@@ -120,7 +120,8 @@ button {
 a,
 .fa-linkedin,
 .fa-github,
-.fa-envelope {
+.fa-envelope,
+.fa-download {
   transition: var(--transition);
 }
 
